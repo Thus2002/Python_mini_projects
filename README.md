@@ -15,4 +15,5 @@ systematically arranged from beginner-friendly to more advanced challenges.
 - Sudoku Solver
 - Photo Manipulation in Python
 - Markov Chain Text Composer
+  
 These projects offer a structured learning experience, starting with foundational concepts and gradually advancing to more sophisticated algorithms and applications.
