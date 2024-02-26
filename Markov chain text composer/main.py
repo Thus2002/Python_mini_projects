@@ -72,7 +72,6 @@ generate_button.pack(pady=5)
 generated_text_display = tk.Text(window, height=10, width=50, state='disabled')
 generated_text_display.pack()
 
-# Run the main event loop
 window.mainloop()
 
 
